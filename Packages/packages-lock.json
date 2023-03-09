@@ -8,6 +8,7 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,
@@ -17,6 +18,8 @@
     },
 =======
 >>>>>>> 41d92ed (Map Push)
+=======
+>>>>>>> 9fab9d3 (Ocean Update)
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 1,
@@ -24,6 +27,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.feature.development": {
       "version": "1.0.1",
       "depth": 0,
@@ -38,6 +42,8 @@
         "com.unity.testtools.codecoverage": "1.2.2"
       }
     },
+=======
+>>>>>>> 9fab9d3 (Ocean Update)
     "com.unity.ide.rider": {
       "version": "3.0.18",
       "depth": 0,
@@ -64,24 +70,71 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.performance.profile-analyzer": {
       "version": "1.2.2",
+=======
+    "com.unity.mathematics": {
+      "version": "1.1.0",
+>>>>>>> 9fab9d3 (Ocean Update)
       "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.settings-manager": {
       "version": "1.0.3",
+=======
+    "com.unity.render-pipelines.core": {
+      "version": "10.10.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.render-pipelines.universal": {
+      "version": "10.10.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.mathematics": "1.1.0",
+        "com.unity.render-pipelines.core": "10.10.1",
+        "com.unity.shadergraph": "10.10.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.searcher": {
+      "version": "4.3.2",
+>>>>>>> 9fab9d3 (Ocean Update)
       "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
 =======
 >>>>>>> 41d92ed (Map Push)
     "com.unity.test-framework": {
       "version": "1.1.31",
+=======
+    "com.unity.shadergraph": {
+      "version": "10.10.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.render-pipelines.core": "10.10.1",
+        "com.unity.searcher": "4.3.2"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.test-framework": {
+      "version": "1.1.33",
+>>>>>>> 9fab9d3 (Ocean Update)
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -91,6 +144,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
     "com.unity.testtools.codecoverage": {
       "version": "1.2.2",
@@ -104,6 +158,8 @@
     },
 =======
 >>>>>>> 41d92ed (Map Push)
+=======
+>>>>>>> 9fab9d3 (Ocean Update)
     "com.unity.textmeshpro": {
       "version": "3.0.6",
       "depth": 0,
@@ -114,7 +170,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
+<<<<<<< HEAD
       "version": "1.6.4",
+=======
+      "version": "1.4.8",
+>>>>>>> 9fab9d3 (Ocean Update)
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -134,6 +194,7 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+<<<<<<< HEAD
     "com.unity.visualscripting": {
       "version": "1.8.0",
       "depth": 0,
@@ -144,6 +205,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 9fab9d3 (Ocean Update)
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
