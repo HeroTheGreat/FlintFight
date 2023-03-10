@@ -4,11 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-<<<<<<< HEAD
-  productGUID: 3b5f18cde1f5f2d438b758b8e0e59ae8
-=======
   productGUID: 9bde17d92a5fa9042b5fc5d535e6d75e
->>>>>>> cc46e32 (OceanUpdateRE)
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -17,11 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-<<<<<<< HEAD
-  productName: FlintFight
-=======
   productName: FlintFighto
->>>>>>> cc46e32 (OceanUpdateRE)
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -55,11 +47,7 @@ PlayerSettings:
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
-<<<<<<< HEAD
-  m_ActiveColorSpace: 0
-=======
   m_ActiveColorSpace: 1
->>>>>>> cc46e32 (OceanUpdateRE)
   m_MTRendering: 1
   mipStripping: 0
   numberOfMipsStripped: 0
@@ -88,11 +76,7 @@ PlayerSettings:
   androidFullscreenMode: 1
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
-<<<<<<< HEAD
-  runInBackground: 0
-=======
   runInBackground: 1
->>>>>>> cc46e32 (OceanUpdateRE)
   captureSingleScreen: 0
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
@@ -107,11 +91,7 @@ PlayerSettings:
   resizableWindow: 0
   useMacAppStoreValidation: 0
   macAppStoreCategory: public.app-category.games
-<<<<<<< HEAD
-  gpuSkinning: 0
-=======
   gpuSkinning: 1
->>>>>>> cc46e32 (OceanUpdateRE)
   xboxPIXTextureCapture: 0
   xboxEnableAvatar: 0
   xboxEnableKinect: 0
@@ -133,11 +113,7 @@ PlayerSettings:
   xboxOneDisableEsram: 0
   xboxOneEnableTypeOptimization: 0
   xboxOnePresentImmediateThreshold: 0
-<<<<<<< HEAD
-  switchQueueCommandMemory: 1048576
-=======
   switchQueueCommandMemory: 0
->>>>>>> cc46e32 (OceanUpdateRE)
   switchQueueControlMemory: 16384
   switchQueueComputeMemory: 262144
   switchNVNShaderPoolsGranularity: 33554432
@@ -158,11 +134,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-<<<<<<< HEAD
-  bundleVersion: 1.0
-=======
   bundleVersion: 0.1
->>>>>>> cc46e32 (OceanUpdateRE)
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -176,24 +148,16 @@ PlayerSettings:
   useHDRDisplay: 0
   D3DHDRBitDepth: 0
   m_ColorGamuts: 00000000
-<<<<<<< HEAD
-  targetPixelDensity: 0
-=======
   targetPixelDensity: 30
->>>>>>> cc46e32 (OceanUpdateRE)
   resolutionScalingMode: 0
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier: {}
-<<<<<<< HEAD
-  buildNumber: {}
-=======
   buildNumber:
     Standalone: 0
     iPhone: 0
     tvOS: 0
->>>>>>> cc46e32 (OceanUpdateRE)
   overrideDefaultApplicationIdentifier: 0
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 19
@@ -208,15 +172,6 @@ PlayerSettings:
   CreateWallpaper: 0
   APKExpansionFiles: 0
   keepLoadedShadersAlive: 0
-<<<<<<< HEAD
-  StripUnusedMeshComponents: 0
-  VertexChannelCompressionMask: 4054
-  iPhoneSdkVersion: 988
-  iOSTargetOSVersionString: 
-  tvOSSdkVersion: 0
-  tvOSRequireExtendedGameController: 0
-  tvOSTargetOSVersionString: 
-=======
   StripUnusedMeshComponents: 1
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
@@ -224,7 +179,6 @@ PlayerSettings:
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 11.0
->>>>>>> cc46e32 (OceanUpdateRE)
   uIPrerenderedIcon: 0
   uIRequiresPersistentWiFi: 0
   uIRequiresFullScreen: 1
@@ -278,15 +232,9 @@ PlayerSettings:
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
-<<<<<<< HEAD
-  clonedFromGUID: 00000000000000000000000000000000
-  templatePackageId: 
-  templateDefaultScene: 
-=======
   clonedFromGUID: c0afd0d1d80e3634a9dac47e8a0426ea
   templatePackageId: com.unity.template.3d@6.0.1
   templateDefaultScene: Assets/Scenes/SampleScene.unity
->>>>>>> cc46e32 (OceanUpdateRE)
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 0
@@ -320,13 +268,6 @@ PlayerSettings:
   AndroidAppBundleSizeToValidate: 150
   m_BuildTargetIcons: []
   m_BuildTargetPlatformIcons: []
-<<<<<<< HEAD
-  m_BuildTargetBatching: []
-  m_BuildTargetGraphicsJobs: []
-  m_BuildTargetGraphicsJobMode: []
-  m_BuildTargetGraphicsAPIs: []
-  m_BuildTargetVRSettings: []
-=======
   m_BuildTargetBatching:
   - m_BuildTarget: Standalone
     m_StaticBatching: 1
@@ -394,7 +335,6 @@ PlayerSettings:
     m_Devices:
     - Oculus
     - OpenVR
->>>>>>> cc46e32 (OceanUpdateRE)
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
   openGLRequireES32: 0
@@ -589,11 +529,7 @@ PlayerSettings:
   ps4RemotePlayKeyAssignment: -1
   ps4RemotePlayKeyMappingDir: 
   ps4PlayTogetherPlayerCount: 0
-<<<<<<< HEAD
-  ps4EnterButtonAssignment: 2
-=======
   ps4EnterButtonAssignment: 1
->>>>>>> cc46e32 (OceanUpdateRE)
   ps4ApplicationParam1: 0
   ps4ApplicationParam2: 0
   ps4ApplicationParam3: 0
@@ -616,11 +552,7 @@ PlayerSettings:
   ps4UseAudio3dBackend: 0
   ps4UseLowGarlicFragmentationMode: 1
   ps4SocialScreenEnabled: 0
-<<<<<<< HEAD
-  ps4ScriptOptimizationLevel: 2
-=======
   ps4ScriptOptimizationLevel: 0
->>>>>>> cc46e32 (OceanUpdateRE)
   ps4Audio3dVirtualSpeakerCount: 14
   ps4attribCpuUsage: 0
   ps4PatchPkgPath: 
@@ -646,11 +578,7 @@ PlayerSettings:
   splashScreenBackgroundSourcePortrait: {fileID: 0}
   blurSplashScreenBackground: 1
   spritePackerPolicy: 
-<<<<<<< HEAD
-  webGLMemorySize: 32
-=======
   webGLMemorySize: 16
->>>>>>> cc46e32 (OceanUpdateRE)
   webGLExceptionSupport: 1
   webGLNameFilesAsHashes: 0
   webGLDataCaching: 1
@@ -660,11 +588,7 @@ PlayerSettings:
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
-<<<<<<< HEAD
-  webGLCompressionFormat: 0
-=======
   webGLCompressionFormat: 1
->>>>>>> cc46e32 (OceanUpdateRE)
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
@@ -689,22 +613,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-<<<<<<< HEAD
-  metroPackageName: FlintFight
-=======
   metroPackageName: Template_3D
->>>>>>> cc46e32 (OceanUpdateRE)
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-<<<<<<< HEAD
-  metroApplicationDescription: FlintFight
-=======
   metroApplicationDescription: Template_3D
->>>>>>> cc46e32 (OceanUpdateRE)
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -752,12 +668,8 @@ PlayerSettings:
   XboxOneOverrideIdentityName: 
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
-<<<<<<< HEAD
-  cloudServicesEnabled: {}
-=======
   cloudServicesEnabled:
     UNet: 1
->>>>>>> cc46e32 (OceanUpdateRE)
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
