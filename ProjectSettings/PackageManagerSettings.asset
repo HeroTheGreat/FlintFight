@@ -13,17 +13,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_EnablePreReleasePackages: 0
   m_EnablePackageDependencies: 0
   m_AdvancedSettingsExpanded: 1
   m_ScopedRegistriesSettingsExpanded: 1
   m_SeeAllPackageVersions: 0
 =======
+=======
+>>>>>>> cc46e32 (OceanUpdateRE)
   m_EnablePreviewPackages: 0
   m_EnablePackageDependencies: 0
   m_AdvancedSettingsExpanded: 1
   m_ScopedRegistriesSettingsExpanded: 1
+<<<<<<< HEAD
 >>>>>>> 9fab9d3 (Ocean Update)
+=======
+>>>>>>> cc46e32 (OceanUpdateRE)
   oneTimeWarningShown: 0
   m_Registries:
   - m_Id: main
@@ -32,6 +38,7 @@ MonoBehaviour:
     m_Scopes: []
     m_IsDefault: 1
     m_Capabilities: 7
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_UserSelectedRegistryName: 
   m_UserAddingNewScopedRegistry: 0
@@ -42,6 +49,8 @@ MonoBehaviour:
     m_OriginalInstanceId: -832
   m_LoadAssets: 0
 =======
+=======
+>>>>>>> cc46e32 (OceanUpdateRE)
     m_ConfigSource: 0
   m_UserSelectedRegistryName: 
   m_UserAddingNewScopedRegistry: 0
@@ -61,4 +70,7 @@ MonoBehaviour:
     m_Scopes:
     - 
     m_SelectedScopeIndex: 0
+<<<<<<< HEAD
 >>>>>>> 9fab9d3 (Ocean Update)
+=======
+>>>>>>> cc46e32 (OceanUpdateRE)

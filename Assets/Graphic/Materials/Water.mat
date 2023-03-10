@@ -41,9 +41,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_28db084ac82647d3bb67cd0a4d49ff2d: 3
+<<<<<<< HEAD
     - Vector1_65f07a8e747d4457ba2c51967e0955fc: 15
     - Vector1_8985c8b17fb1410aa3dca4100f4437d2: 0.05
     - Vector1_daee96aaa3d2414584b63d8772e16f35: 0.45
+=======
+    - Vector1_65f07a8e747d4457ba2c51967e0955fc: 6
+    - Vector1_8985c8b17fb1410aa3dca4100f4437d2: 0.05
+    - Vector1_daee96aaa3d2414584b63d8772e16f35: 0.728
+>>>>>>> cc46e32 (OceanUpdateRE)
     - Vector1_f61aa6e9c5b94c58b006acb4c75fc544: 1
     m_Colors:
     - Color_343e1874836a418a826783a6840f1e72: {r: 0.30588236, g: 0.63529414, b: 0.909804, a: 0.70980394}

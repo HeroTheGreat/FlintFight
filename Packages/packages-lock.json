@@ -9,6 +9,7 @@
     },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,
@@ -20,6 +21,8 @@
 >>>>>>> 41d92ed (Map Push)
 =======
 >>>>>>> 9fab9d3 (Ocean Update)
+=======
+>>>>>>> cc46e32 (OceanUpdateRE)
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 1,
@@ -27,6 +30,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
     "com.unity.feature.development": {
       "version": "1.0.1",
@@ -44,6 +48,8 @@
     },
 =======
 >>>>>>> 9fab9d3 (Ocean Update)
+=======
+>>>>>>> cc46e32 (OceanUpdateRE)
     "com.unity.ide.rider": {
       "version": "3.0.18",
       "depth": 0,
@@ -71,21 +77,29 @@
     },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.performance.profile-analyzer": {
       "version": "1.2.2",
 =======
     "com.unity.mathematics": {
       "version": "1.1.0",
 >>>>>>> 9fab9d3 (Ocean Update)
+=======
+    "com.unity.mathematics": {
+      "version": "1.1.0",
+>>>>>>> cc46e32 (OceanUpdateRE)
       "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.settings-manager": {
       "version": "1.0.3",
 =======
+=======
+>>>>>>> cc46e32 (OceanUpdateRE)
     "com.unity.render-pipelines.core": {
       "version": "10.10.1",
       "depth": 1,
@@ -110,18 +124,24 @@
     },
     "com.unity.searcher": {
       "version": "4.3.2",
+<<<<<<< HEAD
 >>>>>>> 9fab9d3 (Ocean Update)
+=======
+>>>>>>> cc46e32 (OceanUpdateRE)
       "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 41d92ed (Map Push)
     "com.unity.test-framework": {
       "version": "1.1.31",
 =======
+=======
+>>>>>>> cc46e32 (OceanUpdateRE)
     "com.unity.shadergraph": {
       "version": "10.10.1",
       "depth": 1,
@@ -134,7 +154,10 @@
     },
     "com.unity.test-framework": {
       "version": "1.1.33",
+<<<<<<< HEAD
 >>>>>>> 9fab9d3 (Ocean Update)
+=======
+>>>>>>> cc46e32 (OceanUpdateRE)
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -144,6 +167,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     "com.unity.testtools.codecoverage": {
@@ -160,6 +184,8 @@
 >>>>>>> 41d92ed (Map Push)
 =======
 >>>>>>> 9fab9d3 (Ocean Update)
+=======
+>>>>>>> cc46e32 (OceanUpdateRE)
     "com.unity.textmeshpro": {
       "version": "3.0.6",
       "depth": 0,
@@ -171,10 +197,14 @@
     },
     "com.unity.timeline": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "version": "1.6.4",
 =======
       "version": "1.4.8",
 >>>>>>> 9fab9d3 (Ocean Update)
+=======
+      "version": "1.4.8",
+>>>>>>> cc46e32 (OceanUpdateRE)
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -195,6 +225,7 @@
       }
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.visualscripting": {
       "version": "1.8.0",
       "depth": 0,
@@ -207,6 +238,8 @@
     },
 =======
 >>>>>>> 9fab9d3 (Ocean Update)
+=======
+>>>>>>> cc46e32 (OceanUpdateRE)
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
