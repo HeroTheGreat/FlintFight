@@ -384,6 +384,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7464860299849569778, guid: b6a48976674e1a74a8a5e2d8e501407e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 220.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7464860299849569789, guid: b6a48976674e1a74a8a5e2d8e501407e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8334274597024636835, guid: b6a48976674e1a74a8a5e2d8e501407e, type: 3}
       propertyPath: m_Name
       value: IslandTerrain
